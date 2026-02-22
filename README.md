@@ -14,9 +14,6 @@ Production-ready Spring Boot backend for a Fitness Tracking Application with JWT
 
 ## 🚀 Live Demo
 
-🔗 **Base URL**  
-https://fitness-mono-mvfp.onrender.com  
-
 🔗 **Swagger UI**  
 https://fitness-mono-mvfp.onrender.com/swagger-ui.html  
 
